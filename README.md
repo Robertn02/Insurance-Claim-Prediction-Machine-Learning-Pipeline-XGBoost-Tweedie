@@ -1,4 +1,4 @@
-# Insurance-Claim-Prediction-Pipeline-XGBoost-Tweedie
+# Insurance Claim Prediction Pipeline (XGBoost Tweedie)
 
 This project develops a clean, reproducible machine learning pipeline to predict insurance claim outcomes.  
 It combines advanced **feature engineering**, **winsorization**, and **gradient boosting (XGBoost with a Tweedie objective)**  
