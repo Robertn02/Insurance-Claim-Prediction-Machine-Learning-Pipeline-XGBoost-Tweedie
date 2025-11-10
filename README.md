@@ -24,8 +24,6 @@ By integrating time-based and ratio-based engineered features with scalable mode
 ---
 ##  Project Objectives
 
-Based on the DSO 530 Group Project specification, the goals are:
-
 1. **Regression Tasks**
    - Predict LC and HALC using advanced regression models that capture skewed claim data.  
    - Apply Tweedie-based models to jointly model claim frequency and severity.
